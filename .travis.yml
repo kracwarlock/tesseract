@@ -45,7 +45,7 @@ install:
     fi
 
   # install Keras
-  - pip install keras == 1.1.2
+  - pip install keras==1.1.2
 
 # command to run tests
 script:
